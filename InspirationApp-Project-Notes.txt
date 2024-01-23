@@ -1,0 +1,211 @@
+MERN Stack Project: Build a Modern Real Estate Marketplace with react MERN (jwt, redux toolkit)
+URL : https://youtu.be/VAaUy_Moivw?si=OMFzp8KfgIJmPNzU
+
+Source code and demo: https://github.com/sahandghavidel/mern-estate
+
+user = inspirationdev1@gmail.com
+password = dev123@dev123
+
+Final version = estate.100jsprojects.com
+
+Install React.js and Tailwind CSS and
+Create the first template
+
+npm create vite@latest client
+cd client  
+  npm install
+  npm run dev
+
+https://tailwindcss.com/docs/guides/vite
+
+install extension ES7 React/Redux/GraphQL/React-Native snippets
+install extension  Auto Rename Tag
+install extension console Ninja
+install extension GitHub Copilot
+install extension Tailwind CSS IntelliSense
+
+
+
+git remote add origin https://github.com/inspirationdev1/RealEstate.git
+  git branch -M main
+  git push -u origin main
+
+
+npm i react-router-dom
+
+cd..
+npm init -y
+npm i express
+npm i nodemon
+
+npm i mongoose
+mv .git ../
+
+mongo db username = inspirationdev1
+         password = EWjFBzcrRkU8QZeB
+
+Access IP = 122.175.35.197/32
+          =0.0.0.0 
+
+https://cloud.mongodb.com/v2/6559f020797c6e69eb140266#/overview
+
+
+*******Create sign up API route*********
+use insomia api route test
+loginuser = inspirationdev1@gmail.com
+passphrase = dev123@dev123
+*****************************************
+
+****Install***
+npm i bcryptjs
+******************
+
+*********Create a middleware and function to handle possible errors******
+
+***************************************
+
+**********Complete signup page UI****
+
+***************************
+
+**********Complete signup page functionality****
+
+***************************
+
+*********Create sign in API Route****
+npm i jsonwebtoken
+***********************************
+
+*********Complete sign in page functionality****
+
+*******************************************
+
+***Add redux toolkit***
+https://redux-toolkit.js.org/tutorials/quick-start
+go to client folder and install
+npm install @reduxjs/toolkit react-redux
+
+******************
+***Add redux persist***
+npm i redux-persist
+***********************
+
+*****Add Google OAuth functionality***********
+https://firebase.google.com
+npm install firebase
+
+**********************************************
+
+**********Update the header and make the profile page private*******
+
+
+***********************************************************
+
+***Complete profile page UI****
+
+****************************
+
+***complete image upload functionality***
+
+**************************************
+
+***Create update user API route******
+npm i cookie-parser
+****************************************
+
+***Complete update user functionality*********
+********************************************
+
+***Add delete user functionality****
+
+************************************
+
+*****Add sign out user functionality***
+
+***************************************
+
+*****Add create listing API route***
+
+*************************************
+
+**Complete create listing page UI***
+
+***********************************
+
+***Complete upload listing images functionality****
+
+***************************************************
+
+***Complete create listing page functionality****
+
+*************************************************
+
+****Create get user listings API route****
+
+******************************************
+
+****Complete show user listings functionality****
+
+*************************************************
+
+****Complete delete user listings functionality****
+
+*************************************************
+
+******Create update listing API route****
+
+*****************************************
+
+******Complete update listing functionality*****
+
+************************************************
+
+*****Add image slider to the listing page*****
+npm i swiper
+***********************************************
+
+
+********Complete listing page******
+
+***********************************
+
+*****Add contact landlord functionality to the listing page******
+http://127.0.0.1:5173/listing/658aed4de08854d694be9ac9
+*****************************************************************
+
+*****Create search API route********
+
+*********************************
+
+******Complete header search form functionality*****
+
+****************************************************
+
+***Create search page UI**********
+
+*********************************
+
+****Add onChange and onSubmit functionality to the search page****
+
+******************************************************************
+
+*****Create the listing item component and show listings*****
+tailwind css line clamp
+npm install -D @tailwindcss/line-clamp
+**************************************************************
+
+****Add show more listings functionality********
+
+************************************************
+
+****Complete home page****
+
+*************************
+
+****Complete About page*****
+
+***************************
+
+****Deploy to render***
+https://real-estate-iy2x.onrender.com
+***********************
