@@ -30,6 +30,20 @@ git remote add origin https://github.com/inspirationdev1/RealEstate.git
   git branch -M main
   git push -u origin main
 
+*********Commands on Terminal******
+git init
+git add .
+git commit -m "Inspiration App using MERN"
+*****************************************
+****Steps in Github****
+Step-1 : Create New Repository in github login
+Step-2 : run Command on Terminal
+git remote add origin https://github.com/inspirationdev1/inspiration-app.git
+git branch -M main
+git push -u origin main
+
+*******************
+
 
 npm i react-router-dom
 
